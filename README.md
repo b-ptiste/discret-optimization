@@ -41,9 +41,11 @@ The values can be modified and the result is adjusted in real time with our inte
 This first pricture show the results without pre-processing.
 
 ![image](image/solution_gps_without.png)
-![image](image/solution_gps_with.png)
+
 
 This second image shows only the nodes after post-processing. Only useful nodes are retained.
+
+![image](image/solution_gps_with.png)
 
 ---
 ### Scraping : `scrapping_OD_CALLARD_TANNE_FOSSE.ipynb`
