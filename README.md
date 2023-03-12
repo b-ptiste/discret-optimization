@@ -22,7 +22,7 @@ This problem is a **NP-difficult** problem, i.e. unlike its little brother (shor
 
 ---
 ### Theoretical results : `CR_OD_CALLARD_TANNE_FOSSE.ipynb`
-Our alogrithm allowed us to solve the problem faster than the famous GCP solver.
+Our algorithm allowed us to solve the problem faster than the famous GCP solver.
 
 ![image](image/time.png)
 
